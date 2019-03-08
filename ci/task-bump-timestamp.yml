@@ -9,4 +9,4 @@ inputs:
 outputs:
   - name: updated-git-sample
 run:
-  path: resource-git-sample/ci/bump-timestamp-file.sh
+  path: resource-git-sample/ci/bump-timestamp.sh
